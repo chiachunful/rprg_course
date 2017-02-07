@@ -1,0 +1,42 @@
+Git 版本管理工具
+git vs git hub
+RStudio - IDE integrated development environment
+help people to easily deal with programming
+
+GIT GASH
+pwd- present working directly
+cd- change directly
+cd ..-back to upper level
+ls- list
+ctrl+l- delete all terminal
+cd user-go to the use folder
+mkdir-make directory- create a new folder
+tab-recall used words
+touch-create data[touch whatever.txt]
+rm-remove data
+cp- copy[cp whatever.txt what.txt]
+mv-move
+cd ~-back to users/user
+[mv what.txt ~/what.txt]-move the file under user file and stay the same name
+
+git config --list
+git config --global user.name "chiachunful"
+git config --global user.name chiachunful@gmail.com
+
+同步git clone url.
+git add .
+git commit -m "first commit"
+git push
+
+RSTUDIO
+console-命令列
+**=^
+%% remainder
+TRUE = 1
+FALSE = 0
+!= unequal
+
+FUNCTION
+class(my_num) -categories of objects
+paste-character
+getwd-get working directory
